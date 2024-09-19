@@ -27,4 +27,4 @@
 
 ### Front-End (Web)
 1. Navegue até a pasta `web` > cd web
-E refaça nela os passos 2 e 3 do Back-End
+2. Rode os mesmos comandos 2 e 3 do Back-End
