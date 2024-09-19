@@ -1,2 +1,2 @@
-# in.orbit---FullStack
-Aplicação Full-Stack desenvolvida com Node.js no backend e ReactJS no frontend. Inclui API REST com TypeScript, Fastify, e integração com PostgreSQL via DrizzleORM, além de interface responsiva com TailwindCSS.
+# 🚀 in.orbit
+**in.orbit** é uma aplicação gamificada para gerenciamento de metas semanais. Ela permite cadastrar metas e acompanhar, em tempo real, o progresso de metas concluídas ou pendentes, fornecendo uma experiência imersiva para monitoramento de desempenho.
